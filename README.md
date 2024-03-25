@@ -12,4 +12,5 @@ This Project is to create a pacman on demand (button click) and move these pacme
 2) Adding a button to remove all the pacmen
 3) Making the website responsive. 
 ## Preview
+https://github.com/anushkaDev9/PacMen-Exercise/assets/83566191/8acdcbd5-5713-456b-a047-924f0c0cccbd
 
